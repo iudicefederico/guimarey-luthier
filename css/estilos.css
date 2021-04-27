@@ -76,10 +76,14 @@
   color: #3F3B3B;
 }
 
+.header__div {
+  width: 50%;
+}
+
 .header__div img {
   width: 50%;
   text-align: center;
-  padding-top: 25px;
+  padding-top: 5px;
 }
 
 .header__div a {
@@ -594,7 +598,7 @@ main, h2, h3, table {
 }
 
 .mainNosotros__section1__article__img1 img, .mainNosotros__section1__article__img2 img {
-  width: 49%;
+  width: 80%;
   margin: 2px;
 }
 
@@ -776,7 +780,6 @@ body .proyectosContainer__h2 h2 {
   -webkit-box-shadow: 0 0 15px #0C0B0B;
           box-shadow: 0 0 15px #0C0B0B;
   cursor: pointer;
-  opacity: 0.9;
 }
 
 .modal-img {
